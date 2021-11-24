@@ -1,6 +1,5 @@
 package HomeWork1.java;
 
-
 public class Obstacles {
     public String obstaclesName;
     private static final int obstaclesTime = 2;
