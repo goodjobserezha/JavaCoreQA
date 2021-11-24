@@ -1,5 +1,6 @@
 package HomeWork1.java;
 
+
 public class Runner {
     private String runnerName;
     private int time = 0;
