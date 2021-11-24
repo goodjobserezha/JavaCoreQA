@@ -1,6 +1,5 @@
 package HomeWork1.java;
 
-
 public class Course {
         private Obstacles[] poolCourse = {new Obstacles("Obstacle1"),
                 new Obstacles("Obstacle2"), new Obstacles("Obstacle3")};

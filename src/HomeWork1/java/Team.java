@@ -1,6 +1,5 @@
 package HomeWork1.java;
 
-
 public class Team {
     private String teamName;
 
